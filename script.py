@@ -2,10 +2,9 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-I'm an advanced telegram bot with many capabilities!
-There is no practical limits for my filtering capacity :)
- 
- @botmaker_tg
+I'm robot എന്നെ മൂവീസ് എന്ന പ്രൈവറ്റ് ഗ്രൂപ്പിൽ മാത്രമേ യൂസ് ചെയ്യാൻ കഴിയൂ 😁
+വെറുതെ സമയം കളയണ്ട 🤣😅
+ @dev_mirshad 
 
 See <i>/help</i> for commands and more details.</b>
 """
@@ -50,20 +49,20 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @botmaker_tg</b>
+<b>© @dev_mirshad </b>
 """
 
 
     ABOUT_MSG = """⭕️<b>My Name : Robot 🤖</b>
 
-⭕️<b>Creater    :</b> @botmaker_tg
+⭕️<b>Creater    :</b> @dev_mirshad 
 
 ⭕️<b>Language   :</b> <code>Python3</code>
 
-⭕️<b>Maintenance:</b> Amal Noufal Mirshad
+⭕️<b>Users :</b> Movies privet group
 
 ⭕️<b>Library    :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-ഇതു പോലെയുള്ള bot നിങ്ങൾക്ക് വേണമെങ്കിൽ കോൺടാക്ട് ചെയ്യൂ @botmaker_tg 😁
+
 
 """
